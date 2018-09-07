@@ -9,6 +9,9 @@
     "Name": {
       "type": "string",
       "required": true
+    },
+    "Kata": {
+      "type": "string"
     }
   },
   "validations": [],
